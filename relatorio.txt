@@ -1,0 +1,17 @@
+Relatório de Produtos
+=====================
+Produto: bb
+Preço: R$12.00
+Quantidade: 34
+Código de Barras: 55
+---------------------
+Produto: ewesa
+Preço: R$1234.00
+Quantidade: 12
+Código de Barras: 324123
+---------------------
+Produto: camisinha
+Preço: R$50.00
+Quantidade: 300
+Código de Barras: 94836517085
+---------------------
